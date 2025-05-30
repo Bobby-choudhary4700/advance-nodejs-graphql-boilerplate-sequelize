@@ -1,0 +1,13 @@
+{
+  "name": "advance-nodejs-graphql-boilerplate-sequelize",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Bobby-choudhary4700/advance-nodejs-graphql-boilerplate-sequelize.git",
+  "author": "Bobby <bobby.choudhary4700@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.15.29",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
